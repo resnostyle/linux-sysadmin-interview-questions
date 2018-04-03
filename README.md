@@ -203,7 +203,6 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What is IPoAC (RFC 1149)?
 
 
-
 #### [[⬆]](#toc) <a name='mysql'>MySQL questions:</a>
 
 * How do you create a user?
@@ -248,6 +247,11 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What will happen on 19 January 2038?
 * How to reboot server when reboot command is not responding?
 
+#### [[⬆]](#toc) <a name='oob'>Out Of The Box Questions:</a>
+
+* What will finally break the internet?
+* What would you do in the event of a zombie apocalypse?
+* Why are manhole covers round?
 
 #### [[⬆]](#toc) <a name='demo'>Demo Time:</a>
 
