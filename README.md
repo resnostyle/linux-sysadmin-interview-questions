@@ -253,7 +253,6 @@ A collection of linux sysadmin/devops interview questions. Feel free to contribu
 * What would you do in the event of a zombie apocalypse?
 * Why are manhole covers round?
 * If you were building a website, how would you design a forgotten password authentication process?
-* You've seen the office. What would you change?
 
 #### [[⬆]](#toc) <a name='demo'>Demo Time:</a>
 
